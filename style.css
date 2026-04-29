@@ -1,0 +1,21 @@
+*{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p > a{
+    font-weight: bold;
+    color: blue;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: green;
+}
